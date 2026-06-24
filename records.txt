@@ -1,0 +1,30 @@
+nre:
+   Receipt Number:  423
+   Item Hired:      Bouncy Castle
+   Number of Items: 44
+
+matthew: RETURNED
+   Receipt Number:  223
+   Item Hired:      Hats
+   Number of Items: 500
+
+faeil:
+   Receipt Number:  1
+   Item Hired:      Bouncy Castle
+   Number of Items: 2
+
+faeil:
+   Receipt Number:  1
+   Item Hired:      Bouncy Castle
+   Number of Items: 2
+
+bt:
+   Receipt Number:  32
+   Item Hired:      Hats
+   Number of Items: 32
+
+hbj:
+   Receipt Number:  34
+   Item Hired:      Plates
+   Number of Items: 1
+
